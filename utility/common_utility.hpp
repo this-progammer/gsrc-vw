@@ -7,7 +7,7 @@
 
 #include <string>
 
-typedef class Utility{
+class Utility{
 public:
 
   Utility();
